@@ -1,0 +1,10 @@
+{
+  "name": "client-room-skill",
+  "description": "Lock 12 Claudes in a room until they find you paying clients: four ways to hunt, a secret vote, and your top 3 clients with proof and the first message to send. Free Claude Code skill.",
+  "version": "0.1.0",
+  "author": {"name": "Alex Chen", "url": "https://chen.media"},
+  "homepage": "https://chen.media",
+  "repository": "https://github.com/alexyc9381/client-room-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "subagents", "freelance", "lead-generation", "clients"]
+}

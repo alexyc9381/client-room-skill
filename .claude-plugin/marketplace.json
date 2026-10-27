@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "client-room-skill",
+  "description": "The client room for Claude Code",
+  "owner": {"name": "Alex Chen"},
+  "plugins": [
+    {
+      "name": "client-room-skill",
+      "description": "12 Claudes hunt four ways, vote in secret, and give you your top 3 paying clients with proof and the first message to send.",
+      "source": "./",
+      "category": "productivity",
+      "author": {"name": "Alex Chen", "url": "https://chen.media"},
+      "homepage": "https://chen.media"
+    }
+  ]
+}
